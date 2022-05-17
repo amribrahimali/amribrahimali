@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/amr_ibrahimali" target="blank"><img src="https://img.shields.io/twitter/follow/amr_ibrahimali?logo=twitter&style=for-the-badge" alt="amr_ibrahimali" /></a> </p>
 
-- 🔭 I’m currently working on [Zido Inc](http://onelink.to/dejx8d)
+- 🔭 I’m currently working on [Zido Inc](http://onelink.to/3wac7s)
 
 - 🌱 I’m currently learning **everything I can find about Mobile Applications (Android - IOS - Flutter), the learning never stops!**
 
