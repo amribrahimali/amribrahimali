@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **everything I can find about Mobile Applications (Android - IOS - Flutter), the learning never stops!**
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/3K1YY0M](https://bit.ly/3K1YY0M)
+- 👨‍💻 All of my projects are available at [https://bit.ly/3jIHUoO](https://bit.ly/3jIHUoO)
 
 - 📝 I regularly write articles on [https://bit.ly/3MVY4V3](https://bit.ly/3MVY4V3)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **amribrahimgazala@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3K1YY0M](https://bit.ly/3K1YY0M)
+- 📄 Know about my experiences [https://bit.ly/3jIHUoO](https://bit.ly/3jIHUoO)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
