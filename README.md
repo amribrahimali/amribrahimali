@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://twitter.com/amr_ibrahimali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amr_ibrahimali" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amr-ibrahim-ali96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amr-ibrahim-ali96" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/amr-ibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="amr-ibrahim" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/10762012/amr-ibrahim?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="amr-ibrahim" height="30" width="40" /></a>
 <a href="https://fb.com/amribrahimali96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amribrahimali96" height="30" width="40" /></a>
 <a href="https://instagram.com/amr_ibrahim.ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amr_ibrahim.ali" height="30" width="40" /></a>
 </p>
